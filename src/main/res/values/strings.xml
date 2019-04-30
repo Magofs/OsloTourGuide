@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OsloTourGuide</string>
+    <string name="oslo_buildings">Buildings</string>
+    <string name="oslo_sports">Sports</string>
+    <string name="oslo_museums">Museums</string>
+    <string name="oslo_people">People</string>
+    <string name="castle">Castle</string>
+    <string name="parliament">Parliament</string>
+    <string name="cityhall">City Hall</string>
+    <string name="opera">Opera house</string>
+    <string name="skijump">Ski jump</string>
+    <string name="crosscountry">Cross country</string>
+    <string name="munch">Munch museum</string>
+    <string name="polar">Polar expedition museum</string>
+    <string name="viking">Viking museum</string>
+    <string name="constitution">National day</string>
+    <string name="costume">Regional costumes</string>
+    <string name="nightlife">Nightlife</string>
+    <string name="alpine">Alpine</string>
+</resources>

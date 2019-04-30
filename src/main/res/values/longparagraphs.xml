@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="castle_paragraph">
+        The Royal Palace was built in the first half of the
+        19th century as the Norwegian residence of the
+        French-born King Charles III of Norway, who reigned
+        as king of Norway and Sweden. The palace is the
+        official residence of the current Norwegian monarch
+        while the Crown Prince resides at Skaugum in Asker west
+        of Oslo. The palace is located at the end of Karl Johans
+        gate in central Oslo and is surrounded by the Palace Park
+        with the Palace Square in the front.</string>
+
+    <string name="opera_paragraph">
+        The Oslo Opera House is the home of The Norwegian National
+        Opera and Ballet, and the national opera theatre in Norway.
+        The building is situated in the Bjørvika neighbourhood of
+        central Oslo, at the head of the Oslofjord. The angled
+        exterior surfaces of the building are covered with marble
+        from Carrara, Italy and white granite and make it appear to
+        rise from the water. It is the largest cultural building
+        constructed in Norway.
+    </string>
+
+    <string name="cityhall_paragraph">
+        Oslo City Hall is a municipal building in Oslo, the capital
+        of Norway. It houses the city council, the citys
+        administration and various other municipal organisations.
+        The building as it stands today was constructed between 1931
+        and 1950. Oslo City Hall is built of red brick and has two
+        towers, one 63 meters tall and other 66 meters tall.
+    </string>
+
+    <string name="parlament_paragraph">
+        The Parliament is the supreme legislature of Norway, established
+        in 1814 by the Constitution of Norway. It is located in Oslo.
+        The unicameral parliament has 169 members, and is elected every
+        four years. The Parliament of Norway Building opened in 1866.
+    </string>
+
+    <string name="skijumping_paragraph">
+        Holmenkollbakken is a large ski jumping hill located at
+        Holmenkollen in Oslo, Norway. It has a hill size of HS134,
+        a construction point of K-120, and a capacity for 70,000 spectators.
+        Holmenkollen ski jump hill is the most visited tourist site of
+        Norway.
+    </string>
+
+    <string name="crosscountry_paragraph">
+        Cross country is the national sport. Norwegian army units were
+        skiing for sport (and prizes) in the 18th century. Starting in
+        the latter part of the 20th century, technique evolved from the
+        striding in-track classic technique to include skate-skiing,
+        which occurs on courses that have been groomed with wide lanes
+        for those using the technique.
+    </string>
+
+    <string name="alpine_paragraph">
+        The largest ski resort in the Oslo area, with 18 slopes and 11 lifts,
+        just 30 minutes from the city centre. Oslo Winter Park includes a
+        terrain park in the Hyttli area, cruising slopes in Tryvann, challenging
+        slopes and an express lift in Wyller, and slopes for children and beginners.
+        The season usually lasts from November/December until the end of Easter.
+        Reduced opening hours during Christmas and Easter. Group discounts for
+        businesses and school children.
+    </string>
+
+    <string name="munch_paragraph">
+        Munch Museum is an art museum in Oslo, Norway
+        dedicated to the life and works of the Norwegian artist Edvard Munch.
+        The museum now has in its permanent collection well over half of the
+        artists entire production of paintings and at least one copy of all
+        his prints. This amounts to over 1,200 paintings, 18,000 prints,
+        six sculptures, as well as 500 plates, 2,240 books, and various other
+        items. The museum also contains educational and conservation sections,
+        and has facilities for the performing arts.
+    </string>
+
+    <string name="fram_paragraph">
+        The Fram Museum is a museum telling the story
+        of Norwegian polar exploration. It is located on the peninsula of Bygdøy
+        in Oslo. The Fram Museum is centered principally on the original
+        exploration vessel Fram. The original interior of Fram is intact and
+        visitors can go inside the ship to view it. Fram was commissioned,
+        designed, and built by Scots-Norwegian shipbuilder Colin Archer to
+        specifications provided by Norwegian Arctic explorer Fridtjof Nansen.
+    </string>
+
+    <string name="viking_paragraph">
+        The Viking Ship Museum is located at Bygdøy in Oslo. The museum is most
+        famous for the completely whole Oseberg ship, excavated from the largest
+        known ship burial in the world. Other main attractions at the Viking Ship
+        Museum are the Gokstad ship and Tune ship. Additionally, the Viking Age
+        display includes sledges, beds, a horse cart, wood carving, tent components,
+        buckets and other grave goods.
+    </string>
+
+    <string name="constitutionday_paragraph">
+        A noteworthy aspect of the Norwegian Constitution Day is its very non-military
+        nature. All over Norway, childrens parades with an abundance of flags form the
+        central elements of the celebration. The longest parade is in Oslo,
+        where some 100,000 people travel to the city centre to participate in the main
+        festivities. The massive Oslo parade includes some 100 schools, marching bands,
+        and passes the royal palace where the royal family greet the people from the main
+        balcony.
+    </string>
+
+    <string name="bunad_paragraph">
+        Bunad is a Norwegian umbrella term encompassing, in its broadest sense, a range
+        of both traditional rural clothes as well as modern 20th-century folk costumes.
+        The bunad movement has its root in 19th-century national romanticism, which
+        included an interest for traditional folk costumes not only in Norway, but also
+        in neighbouring countries such as Denmark and notably Germany. However, in Norway
+        national romanticist ideas had a more lasting impact.
+    </string>
+
+    <string name="nightlife_paragraph">
+        Oslos city center has a vibrant nightlife, and this is the area where most of the
+        citys visitors chose to go out. It could be wise to navigate according to musical
+        preferences: In and around the upper parts of Karl Johan street you can move to
+        whatever is most popular at the moment, while you find a good selection of places
+        with a more alternative/rock-oriented music profile around Youngstorget. Herr Nilsen
+        and Buckleys Pub are good picks for those who like jazz and blues.
+    </string>
+</resources>
